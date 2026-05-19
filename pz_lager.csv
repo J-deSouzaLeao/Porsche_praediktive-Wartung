@@ -1,0 +1,17 @@
+PZ_ID;Teil_ID;Teil_Name;Preis;Bestand;Lieferzeit
+PZ-Stuttgart;E-001;Stoßdämpfer;3000;0;15
+PZ-Stuttgart;E-002;Bremsbelege;2200;0;16
+PZ-Stuttgart;E-003;Bremsscheiben;4000;0;17
+PZ-Stuttgart;E-004;Motoröl & Ölfilter;700;0;18
+PZ-Augsburg;E-001;Stoßdämpfer;3000;0;19
+PZ-Augsburg;E-002;Bremsbelege;2200;0;20
+PZ-Augsburg;E-003;Bremsscheiben;4000;0;21
+PZ-Augsburg;E-004;Motoröl & Ölfilter;700;0;22
+PZ-Ulm;E-001;Stoßdämpfer;3000;0;23
+PZ-Ulm;E-002;Bremsbelege;2200;0;24
+PZ-Ulm;E-003;Bremsscheiben;4000;0;25
+PZ-Ulm;E-004;Motoröl & Ölfilter;700;0;26
+PZ-Heilbronn;E-001;Stoßdämpfer;3000;123;27
+PZ-Heilbronn;E-002;Bremsbelege;2200;1230;28
+PZ-Heilbronn;E-003;Bremsscheiben;4000;123;29
+PZ-Heilbronn;E-004;Motoröl & Ölfilter;700;123;30
